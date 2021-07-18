@@ -1,0 +1,23 @@
+{
+  "name": "infosacn-desctop",
+  "version": "1.0.0",
+  "description": "Приложение для считывания json данных из системы измерений габаритов и веса infoscan",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workfolio-online/infoscan-electron.git"
+  },
+  "author": "TUfeed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workfolio-online/infoscan-electron/issues"
+  },
+  "homepage": "https://github.com/workfolio-online/infoscan-electron#readme",
+  "devDependencies": {
+    "electron": "^13.1.7"
+  }
+}
